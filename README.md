@@ -1,8 +1,7 @@
-<p align="center">
-<img src="./logo.png" alt="wendigo" width="200" height="200"/>
-</p>
+![yeti](./logo.svg)
 
-# wendigo
+
+# yeti
 
 <p>
   <a target="_blank" href="https://github.com/conifercone/wendigo">
@@ -33,7 +32,7 @@
 ## 模块介绍
 
 ```text
-wendigo
+yeti
 │  ├─ 📂 data-structures -- 数据结构
 │  │─ 📂 design-pattern -- 设计模式
 │  │─ 📂 scattered-jottings -- 杂记
