@@ -33,9 +33,7 @@
 
 ```text
 yeti
-│  ├─ 📂 data-structures -- 数据结构
-│  │─ 📂 design-pattern -- 设计模式
-│  │─ 📂 scattered-jottings -- 杂记
+│  ├─ 📂 images -- 图床
 ```
 
 ## 使用说明
@@ -46,7 +44,7 @@ yeti
 
 ## 使用许可
 
-[Apache License 2.0](LICENSE) © kaiyu.shan@outlook.com
+[Apache License 2.0](LICENSE) © <a href="mailto:kaiyu.shan@mumu.baby">kaiyu.shan</a>
 
 
 
